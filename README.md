@@ -10,7 +10,7 @@ RemoteTalks Single Page Application.
 ## How to set up
 
 ```
-npm install gulp && npm install grunt
+npm install --global gulp && npm install grunt
 ```
 
 ##### Running
